@@ -3,7 +3,6 @@
 - 🔭 I’m currently student at RevoU
 - 🌱 I’m currently learning Python, SQL, Tableu
 - 👯 I’m looking to collaborate as Data Analyst
-- 👯 I’m looking to collaborate as Data Analyst
 - 💬 Ask me about anything
 - 📫 How to reach me: rhm.wty@gmail.com
 
